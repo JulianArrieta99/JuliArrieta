@@ -1,4 +1,4 @@
-
+<img src="./banner.png">
 ### 👋🏻 Hello! I'm Julian Arrieta
 
 🚀 I entered the field of web development at the beginning of 2023. Since then I have been immersed in a variety of projects that have allowed me to constantly refine my technical skills. I focus on bringing significant value to each project in which I participate, aiming at improving the user experience and satisfying customer requirements.
