@@ -9,4 +9,4 @@
 🌱 En el futuro, espero enfrentar nuevos desafíos y seguir aportando al éxito de proyectos web mientras continúo creciendo en el ámbito del desarrollo web y descubriendo nuevas tecnologías.
 
 💼 Si estás interesado en mi perfil, no dudes en contactarme en cualquier momento!
-[Linkedin](https://www.linkedin.com/in/julian-arrieta-dev/) | [Email me!](mailto:julian2arrieta@gmail.com)
+[Linkedin](https://www.linkedin.com/in/julian-arrieta-dev/) | julian2arrieta@gmail.com
