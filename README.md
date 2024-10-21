@@ -8,7 +8,7 @@
 
 🌱 For my future I hope to explore new challenges, and continue contributing to the success of web projects as I grow in the field of web development and discover new technologies.
 
-💼 If you are interested in my profile feel free to contact me and we will arrange an interview!
+💼 If you are interested in my profile feel free to contact me and we will arrange an interview!!
 
 [Linkedin](https://www.linkedin.com/in/julian-arrieta-dev/) | 
 [Email me!](mailto:julian2arrieta@gmail.com)
